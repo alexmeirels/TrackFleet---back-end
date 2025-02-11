@@ -10,8 +10,9 @@ O backend do projeto **TrackFleet** é responsável pela criação e gerenciamen
 
 ## Funcionalidades
 
-- Criação de rotas para os motoristas
-- Registro e atualização de entregas e movimentações
+- Registro dos veículos
+- Registro de saída e de chegada dos veículos
+- Visualização das rotas
 - Integração com o aplicativo TrackFleet
 
 ## Como Rodar
